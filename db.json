@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "React Garna ta lastai majja aune yarr",
+      "date": "2022-1-17T17:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Jailey jhyau lagxa vanya",
+      "date": "2022-1-17T18:39:34.091Z",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "Voli xai bihanai uthne hai ",
+      "date": "2022-1-17T19:20:14.298Z",
+      "important": false
+    },
+     {
+      "id": 4,
+      "content": "Aja xai running ma jane ho",
+      "date": "2022-1-18T19:30:14.278Z",
+      "important": true
+    }
+  ]
+}
